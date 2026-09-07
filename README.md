@@ -49,21 +49,6 @@ EV-Buyer-Prediction/
 ├── ev_prediction.ipynb
 ├── submission.csv
 └── requirements.txt
-🚀 Getting Started
-
-Clone the repository:
-
-git clone https://github.com/Sahilnaseem-7/EV-Buyer-Prediction.git
-
-Install the dependencies:
-
-pip install -r requirements.txt
-
-Open the notebook:
-
-jupyter notebook ev_prediction.ipynb
-
-Add the competition dataset and run the notebook to reproduce the analysis and predictions.
 
 📈 Key Result
 
